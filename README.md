@@ -99,6 +99,7 @@ MPV uses several configuration files to customize behavior:
 - **mpv.conf**: Main configuration file
   - Location (Windows): `%APPDATA%\mpv\mpv.conf`
   - Location (Linux/macOS): `~/.config/mpv/mpv.conf`
+  - via snap (linux): ```nano ~/snap/mpv/current/.config/mpv/mpv.conf```
 - **input.conf**: Custom key bindings
   - Location (Windows): `%APPDATA%\mpv\input.conf`
   - Location (Linux/macOS): `~/.config/mpv/input.conf`
